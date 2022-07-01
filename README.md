@@ -12,4 +12,7 @@ This is Michael.
 📫 How to reach me blank lol
 
 <!--ACTION_START_FLAG:github-followers-->
+<table>
+  </tr>
+</table>
 <!--ACTION_END_FLAG:github-followers-->
