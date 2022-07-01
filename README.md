@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is Michael.
 
-🔭 I’m currently working on mysql connector
+🔭 I’m currently working on a mysql connector
 
 🌱 I’m currently learning java and phyton
 
