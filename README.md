@@ -27,6 +27,7 @@
   <img alt="Java" src="https://img.shields.io/badge/-Unity-red" />
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Michaelg22" />
 
 <h3>Open source projects</h3>
 <table>
