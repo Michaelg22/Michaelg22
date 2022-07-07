@@ -16,14 +16,24 @@
   <img alt="Java" src="https://img.shields.io/badge/-Unity-red" />
 </p>
  
-🔭 I’m currently working on it's top secret.
-<br>
-🌱 I’m currently learning java and phyton.
-<br>
-👯 I’m looking to collaborate on any interesting project...
-<br>
-💬 Ask me about anything I'll do my best to help.
-
- 
-
-
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Michaelg22/Student-Report-ComBuilder"><b>Student Report ComBuilder</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Michaelg22/Student-Report-ComBuilder?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Michaelg22/Student-Report-ComBuilder?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Michaelg22/Student-Report-ComBuilder?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Michaelg22/Student-Report-ComBuilder?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
