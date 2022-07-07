@@ -1,5 +1,8 @@
-<h1 style="color:blue;">Hi there 👋 </h1>
-<h1 style="color:blue;">This is Michael.</h1>
+<html>
+   <head>
+  </head>
+  <body>
+    <h1 style="color:blue;">Hi there This is Michael.👋 </h1>
 
 🔭 I’m currently working on a mysql connector
 
@@ -10,10 +13,8 @@
 💬 Ask me about anything I'll do my best to help
 
 📫 How to reach me blank lol
+  </body>
+  </html>
+ 
 
-<!--ACTION_START_FLAG:github-followers-->
-<table>
-  </tr>
-</table>
-<!--ACTION_END_FLAG:github-followers-->
 
