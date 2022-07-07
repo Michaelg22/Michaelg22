@@ -27,8 +27,6 @@
   <img alt="Java" src="https://img.shields.io/badge/-Unity-red" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Michaelg22" />
-
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -61,6 +59,8 @@
   ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Michaelg22&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Michaelg22" />
 
 <h3>Where to find me</h3>
 <p><a href="https://github.com/michaelg22" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
