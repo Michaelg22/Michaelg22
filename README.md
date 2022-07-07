@@ -3,7 +3,7 @@
   </head>
   <body>
         <br>    
-<img src="display.svg" width="400" height="100" alt=""><h1>👋 </h1>
+<img src="display.svg" width="400" height="400" alt=""><h1>👋 </h1>
      </br>
 🔭 I’m currently working on it's top secret.
 
