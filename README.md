@@ -1,5 +1,5 @@
 <div align="center">
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Michaelg22)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=Michaelg22)]
 <a href="https://github.com/Michaelg22?tab=followers">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Michaelg22?color=green&logo=github">
 </a>
