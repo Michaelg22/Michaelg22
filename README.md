@@ -2,9 +2,9 @@
    <head>
   </head>
   <body>
-        <br>    
+        <div>    
 <img src="display.svg" width="400" height="50" alt="">
-     </br>
+     </div>
 🔭 I’m currently working on it's top secret.
 
 🌱 I’m currently learning java and phyton.
