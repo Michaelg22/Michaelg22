@@ -54,7 +54,7 @@
   </tbody>
 </table>
 
-  # 🏆 GitHub Trophies
+  ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Michaelg22&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
