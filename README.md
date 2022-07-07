@@ -1,4 +1,4 @@
-<h1 style="color:blue;">Hi there 👋 </h1><br>
+<h1 style="color:blue;">Hi there 👋 </h1>
 <h1 style="color:blue;">This is Michael.</h1>
 
 🔭 I’m currently working on a mysql connector
@@ -17,7 +17,3 @@
 </table>
 <!--ACTION_END_FLAG:github-followers-->
 
-
-h1 {
-  color: green;
-}
