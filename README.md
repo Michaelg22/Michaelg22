@@ -10,9 +10,9 @@
 👯 I’m looking to collaborate on any interesting project...
 
 💬 Ask me about anything I'll do my best to help.
-        
-<img src="display.svg" width="400" height="400" alt="css-in-readme">
-
+    <br>    
+<img src="display.svg" width="400" height="400" alt="">
+     </br>
   </body>
   </html>
  
