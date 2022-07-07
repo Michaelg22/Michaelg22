@@ -1,11 +1,12 @@
 <div align="center">
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Michaelg22)
-<a href="https://github.com/JieDing?tab=followers">
+<a href="https://github.com/Michaelg22?tab=followers">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Michaelg22?color=green&logo=github">
 </a>
+ <img alt="Total Commits" src="https://img.shields.io/github/commits/Michaelg22?color=green&logo=github">
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 </div>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
