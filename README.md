@@ -3,6 +3,9 @@
   </head>
   <body>
     <h1 style="color:blue;">Hi there This is Michael.👋 </h1>
+    <div align="center">
+    <img src="display.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 🔭 I’m currently working on it's top secret.
 
