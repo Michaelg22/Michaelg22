@@ -5,13 +5,9 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/Michaelg22?color=green&logo=github">
 </a>
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-
- 
 </div>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-
-
 <p>Welcome to my page! </br> I'm Michael, developer from <img src="https://png2png.com/wp-content/uploads/2021/04/canada-flag-icon-design-png.png" width="13"/> <b>Ontario, Canada</b>, currently living in <img src="https://snrd-asia.org/wp-content/uploads/2016/03/China.png" width="13"/> <b>Beijing, China</b>. </p>
 
 <h3>Things I code with</h3>
@@ -26,7 +22,7 @@
   <img alt="Java" src="https://img.shields.io/badge/-CSharp-blue" />
   <img alt="Java" src="https://img.shields.io/badge/-Unity-red" />
 </p>
-
+<br>
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -55,13 +51,14 @@
     </tr>
   </tbody>
 </table>
+<br>
 
   ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Michaelg22&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+<br>
 <h3>Where to find me</h3>
 <p><a href="https://github.com/michaelg22" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="https://twitter.com/MikeAsia4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
