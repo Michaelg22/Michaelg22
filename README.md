@@ -23,6 +23,9 @@
   <img alt="Java" src="https://img.shields.io/badge/-Unity-red" />
 </p>
 <br>
+
+---
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -53,10 +56,13 @@
 </table>
 <br>
 
+---
+
   ### 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Michaelg22&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
 <br>
 <h3>Where to find me</h3>
