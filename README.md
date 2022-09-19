@@ -39,13 +39,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><a href="https://github.com/Michaelg22/Student-Report-ComBuilder"><b>Student Report ComBuilder</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Michaelg22/Student-Report-ComBuilder?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Michaelg22/Student-Report-ComBuilder?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Michaelg22/Student-Report-ComBuilder?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Michaelg22/Student-Report-ComBuilder?style=flat-square&labelColor=343b41"/></td>
-    </tr>
      <tr>
       <td><a href="https://github.com/Michaelg22/Mysql_Source"><b> MysqlBinlog Source DataTransfer</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Michaelg22/Mysql_Source?style=flat-square&labelColor=343b41"/></td>
