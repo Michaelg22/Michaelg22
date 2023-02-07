@@ -49,17 +49,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linkall-labs/vanus?style=flat-square&labelColor=343b41"/></td>
     </tr>
-  </tbody>
- 
- <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
+ </tbody>
   <tbody>
      <tr>
       <td><a href="https://github.com/linkall-labs/vanus-connect"><b>Vanus Connect</b></a></td>
@@ -69,16 +59,6 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/linkall-labs/vanus-connect?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
- 
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
   <tbody>
      <tr>
       <td><a href="https://github.com/linkall-labs/docs"><b>Vanus Documentation</b></a></td>
